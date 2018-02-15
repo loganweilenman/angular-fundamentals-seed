@@ -1,1 +1,30 @@
-{}
+{
+  "passengers": [
+    {
+      "fullname": "Stephen",
+      "id": 1,
+      "checkedIn": true,
+      "baggage": "hand-hold"
+    },
+    {
+      "id": 2,
+      "fullname": "joe",
+      "checkedIn": true,
+      "checkedInDate": 1490742000000,
+      "baggage": ""
+    },
+    {
+      "fullname": "suzy2",
+      "id": 3,
+      "checkedIn": true,
+      "baggage": "hand-only",
+      "checkInDate": 1518642545883
+    },
+    {
+      "id": 3,
+      "fullname": "Logan",
+      "checkedIn": false,
+      "baggage": ""
+    }
+  ]
+}
